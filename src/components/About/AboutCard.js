@@ -9,9 +9,9 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">REDA BAOUSSOUS </span>
-            from <span className="purple"> Casablanca, Morocco.</span>
+            from <span className="purple"> Rabat, Morocco.</span>
             <br />
-            I am currently worling as a DevSecOps Engineer at ONCF.
+            I graduated from the National School of Applied Sciences with a degree in Networks and Systems Engineering. I am currently working as a DevSecOps Engineer at ONCF."
             <br />
             <br />
 
