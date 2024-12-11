@@ -1,12 +1,12 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { FaTrello, FaWindows } from "react-icons/fa";
+import { FaTrello } from "react-icons/fa";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiSlack,
-  SiVercel,
-  SiMacos,
+  //SiSlack,
+  //SiVercel,
+  //SiMacos,
   SiNetlify,
   SiWindows,
 } from "react-icons/si";
